@@ -1,0 +1,42 @@
+h1{
+    color:white;
+    text-align: center;
+    font-size: 60px;
+}
+.lead{
+    padding-top: 60 px;
+    color: white;
+    text-align: center;
+}
+body{
+background-color: aliceblue ;
+ }
+h2{
+    font-size: 60px;
+    text-align: center;
+    padding-bottom: 40px;
+    
+}
+h3{
+    font-size: 60px;
+    text-align: center;
+    padding: 40px;
+}
+.card-group{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h4{
+    font-size: 60px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+h6{
+    font-size: 60px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+ .jumbotron{
+     background-color: black;
+ }
